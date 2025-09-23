@@ -1,7 +1,7 @@
 # python_env_app
 
 ESte repositório será utilizado na disciplina de Python for Environmental Applications do PPGEA em 2025.3.
-A disciplina será dividida em 3 parte:
+A disciplina será dividida em 3 partes:
 
 1. Análise de dados no tempo
 2. Análise de dados no espaço
